@@ -6,15 +6,15 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Lisa Karstens, PhD
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Assistant Professor in Bioinformatics and Computational Biomedicine"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: lisakarstens
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: lakarstens
+  orcid: 0000-0001-6188-4397
   researchgate: #username
   mendeley: #username
   google:

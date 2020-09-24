@@ -3,12 +3,15 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm an Assistant Professor at Oregon Health & Science University in the Departments of Medical Informatics and Clinical Epidemiology (Division of Bioinformatics) and Obstetrics and Gynecology (Division of Urogynecology).  My research interests broadly span using bioinformatics to understand complex human disease. My current research focuses on using bioinformatic approaches to understand bladder disorders, with a specific focus on understanding how the human microbiome contributes to bladder health and disease.  
+
+While my research is interdisciplinary, my expertise is in bioinformatics- specifically microbiome, metabolomics, and neuroimaging analysis. My programming languages of choice are R and Python.  I collaborate with clinicians and molecular biologists on a regular basis on a variety of projects. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- The Urinary Microbiome
+  - Urinary microbiome in UUI
+  - Considerations for urinary microbiome studies [manuscript](https://www.nature.com/articles/s41585-018-0104-z) [free read cube link]
+- Overcoming computational challenges in low microbial biomass experiments: 
+  - Identifying contaminants computationally: [manuscript](https://msystems.asm.org/content/4/4/e00290-19) [github](https://lakarstens.github.io/ControllingContaminants16S/Analyses/ControllingContaminants16S.html)
+

@@ -9,9 +9,10 @@ While my research is interdisciplinary, my expertise is in bioinformatics- speci
 
 ## Current Interests and Projects:
 
-- The Urinary Microbiome
-  - Urinary microbiome in UUI
-  - Considerations for urinary microbiome studies [manuscript](https://www.nature.com/articles/s41585-018-0104-z) [free read cube link]
+- The urinary microbiome
+  - Urinary microbiome in urgency urinary incontinence [manuscript](https://www.frontiersin.org/articles/10.3389/fcimb.2016.00078/full)
+  - Considerations for urinary microbiome studies [manuscript](https://www.nature.com/articles/s41585-018-0104-z) [free SharedIt link](https://rdcu.be/bAhbh)
+  - Species-level assignment of the urinary microbiota [coming soon!]
 - Overcoming computational challenges in low microbial biomass experiments: 
   - Identifying contaminants computationally: [manuscript](https://msystems.asm.org/content/4/4/e00290-19) [github](https://lakarstens.github.io/ControllingContaminants16S/Analyses/ControllingContaminants16S.html)
 

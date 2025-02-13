@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Lisa Karstens, PhD
   avatar: bio-photo.jpg
-  bio: "Assistant Professor in Bioinformatics and Computational Biomedicine"
+  bio: "Associate Professor in Bioinformatics and Computational Biomedicine"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: lisakarstens
@@ -53,7 +53,7 @@ creative-commons:
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   redirect_to: "https://karstenslab.netlify.app/"
 markdown:    kramdown
 highlighter: rouge
 sass:

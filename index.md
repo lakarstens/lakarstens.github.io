@@ -1,9 +1,10 @@
 ---
+redirect_to: "https://karstenslab.netlify.app/"
 layout: page
 excerpt: "About Me..."
 ---
 
-I'm an Assistant Professor at Oregon Health & Science University in the Departments of Medical Informatics and Clinical Epidemiology (Division of Bioinformatics) and Obstetrics and Gynecology (Division of Urogynecology).  My research interests broadly span using bioinformatics to understand complex human disease. My current research focuses on using bioinformatic approaches to understand bladder disorders, with a specific focus on understanding how the human microbiome contributes to bladder health and disease.  
+I'm an Associate Professor at Oregon Health & Science University in the Departments of Medical Informatics and Clinical Epidemiology (Division of Bioinformatics) and Obstetrics and Gynecology (Division of Urogynecology).  My research interests broadly span using bioinformatics to understand complex human disease. My current research focuses on using bioinformatic approaches to understand bladder disorders, with a specific focus on understanding how the human microbiome contributes to bladder health and disease.  
 
 While my research is interdisciplinary, my expertise is in bioinformatics- specifically microbiome, metabolomics, and neuroimaging analysis. My programming languages of choice are R and Python.  I collaborate with clinicians and molecular biologists on a regular basis on a variety of projects. 
 
